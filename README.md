@@ -6,4 +6,4 @@ Count Up Animation Using
 2. CSS
 3. JavaScript
 
-- [visit from her](https://ranjitodedra.github.io/Count-Up-Animation/)
+- [visit from here](https://ranjitodedra.github.io/Count-Up-Animation/)

@@ -16,6 +16,6 @@ counters.forEach((counter)=>{
             counter.innerHTML = targetCount;
         }
     }
-
+    //new comment
     updateCounter();
 })
